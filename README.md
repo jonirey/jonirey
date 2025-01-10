@@ -23,15 +23,17 @@ Software developer at Argentine Navy with experience in C#, HTML, CSS and JS.
 
 - :rocket: C#: Advanced
 - :rocket: T-SQL: Advanced
+- :airplane: PL/SQL: Intermediate
 - :airplane: HTML: Intermediate
 - :airplane: CSS: Intermediate
-- :bike: JS: Basic
+- :airplane: JS: Intermediate
+- :airplane: KO.Js: Intermediate
 
 
 
 ## :computer: Work experience
 
-- Software developer at Argentine Navy :ship: (2017 - present): Maintenance and improve of C# and VB 6 legacy systems - Develompent of SQL Querys, SP & Views. 
+- Experienced Software developer at Neoris, (2023 - present) -  Former Software developer and NCO at Argentinian Navy :ship: (2017 - present): Maintenance and improve of C# and VB 6 legacy systems - Develompent of SQL Querys, SP & Views. 
 
 ## Education
 

